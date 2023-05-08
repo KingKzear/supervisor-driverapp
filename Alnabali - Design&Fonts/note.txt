@@ -1,0 +1,1 @@
+before you open the illustrator files --> open the fonts folder --> select all --> right click by mouse --> click install
